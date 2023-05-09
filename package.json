@@ -1,0 +1,17 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chardet": "^1.5.1",
+    "dotenv": "^16.0.3",
+    "iconv-lite": "^0.6.3",
+    "recursive-readdir": "^2.2.3"
+  }
+}

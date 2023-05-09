@@ -1,0 +1,1 @@
+ação brenão testando o enconding de programação, textão, textão
